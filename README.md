@@ -46,7 +46,8 @@
 <div align="left">
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asdzx1320"/>
     <!--깃허브-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hariri1001i&show_icons=true&theme=radical">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hariri1001&show_icons=true&theme=radical">
+
   </div>
 </div>
 <br>
